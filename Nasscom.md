@@ -1,14 +1,14 @@
-! Nasscom 10000 Startups
+#Nasscom 10000 Startups Interviews
+
+Indian startups
 
 * i7 networks
 * vizury
 * Capillary Technologies
 * RateGain
-* 
+
 
 ## Vizury
-
-How to 
 
 ##Capillary
 
@@ -46,8 +46,6 @@ HOw can startups market themselves for free?
 - Digital Marketing
 - SEO
 - Get invited at events
--
-
 
 What qualifications does one need to become an entrepreneur?
 
