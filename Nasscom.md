@@ -32,7 +32,7 @@ Should a startup recruit senior talent?
 * Look at rigt EQ - Domain can be taught
 * Drive to achieve 
 
-# Manish Vij, Founder, Smile Vun Group
+### Manish Vij, Founder, Smile Vun Group
 
 Why & how to give ESOPs?
 
@@ -65,3 +65,11 @@ How to find startup idea?
 
 What kind of mind set one needs to become an antrepreneur?
 
+- Go one step forward than yesterday.  
+- Have a thick skin
+- Jump into the water
+- 
+
+How to strike alliances & Partnerships?
+
+How to find investors for your startup?
