@@ -14,7 +14,7 @@ Indian startups
 
 ## Banu Chopra, Rategain, Hotel Channel Management
 
-Is a technological Co-founder indespensable?>
+Is a technological Co-founder indespensable?
 
 No, Founders should have product management and Sales.  Other skills can be acquired
 
@@ -47,6 +47,8 @@ HOw can startups market themselves for free?
 - SEO
 - Get invited at events
 
+### Manjunath Gowda, CEO, I7 Networks
+
 What qualifications does one need to become an entrepreneur?
 
 
@@ -55,3 +57,11 @@ Passion to earn your own money
 - walk back  is risk
 - Jump into the water
 - Burning the boats
+
+How to find startup idea?
+
+- Talk to people.  Don't tell what are doing.  Ask what problems they are facing.  After talking to people, you get fair idea about the problem space and market opportunity.
+
+
+What kind of mind set one needs to become an antrepreneur?
+
