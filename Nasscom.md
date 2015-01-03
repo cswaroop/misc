@@ -66,9 +66,9 @@ How to find startup idea?
 What kind of mind set one needs to become an antrepreneur?
 
 - Go one step forward than yesterday.  
-- Have a thick skin
-- Jump into the water
-- 
+- Have a thick skin.
+- Jump into the water.
+
 
 How to strike alliances & Partnerships?
 
