@@ -30,3 +30,13 @@ What was Tableau (enterprise BI) plan in intial days?
 
 - Provide "naive" users the ability to query (visual query) and create a visualizations that are based on human cognitive principles (not to burden consumer, which other tools lets you do).
 
+What was the NetFlix plan in initial days?
+
+- Found a business model that doesn't tax the lazy users.  Lazy to return the watched DVDs, no problem, you are not recovering the postage charge you pre-paid (via. monthly subscription) for NetFlix. The founder himself was embarassed to admit to his wife that he paid hefty fine at blockbuster at that time.
+
+What was Intuit plan?
+- Let housewives do the accounting and tax filings with help of software.  Founder watched his wife strugging to reconcile checks wrote to bank account balance.
+- 
+
+
+look at something people are trying to do, and figure out how to do it in a way that doesn't suck
