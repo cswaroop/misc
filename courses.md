@@ -5,7 +5,20 @@
 ## Software Engineering
 
 ### Front-end Engineering
+* AngularJS
+* React
+* NodeJS
+* HTML5/CSS3
+* Bootstrap,Polymer
+
 ### Full Stack Engineeringe
+* NodeJS (JavaScript)
+* Django/Flask (Python)
+* Rails/Sinatra (Ruby)
+* Struts/Wicket/Play (Java)
+* Clojure/ClojureScript (Lisp)
+* Yii, CakePHP (PHP)
+
 ### Infrastructure Engineering
 
 Develop large scale disributed server applications using (C/C++ | Java | Erlang | Go) such as Redis, Cassandra, Memory Allocators etc. that sustain millions of writes per second(wps) or queries per second(qps)
@@ -15,8 +28,20 @@ Develop large scale disributed server applications using (C/C++ | Java | Erlang 
 * Databases (MySQL, PostGres, Cassandra)
 
 ### Data Engineering
+* Hadoop
+* Spark
+* Storm
+
 ### Mobile Engineering
+* Android
+* IOS
+* WebGL & Cocos2D
+* Unity
+* Unreal
+
 ### Test Automation
+* Selenium
+* Wattir
 
 ## Data & Analytics (>10TB of Distributed Data)
 
