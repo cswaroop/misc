@@ -83,6 +83,7 @@ Usual Jobs include Product Analytics (User-Facing such as People you Know, Produ
 
 * Tableau
 * QlikView
+* MSBI
 * OBIEE
 * Cognos
 
@@ -100,8 +101,8 @@ Usual Jobs include Product Analytics (User-Facing such as People you Know, Produ
 * PRD
 
 ### Program Management
-* PMI
-* Agile SCRUM Master
+* Project Management (PMI)
+* Agile SCRUM Master (Prince2)
 
 ## IT & Security
 
