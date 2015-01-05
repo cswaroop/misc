@@ -36,7 +36,6 @@ What was the NetFlix plan in initial days?
 
 What was Intuit plan?
 - Let housewives do the accounting and tax filings with help of software.  Founder watched his wife strugging to reconcile checks wrote to bank account balance.
-- 
 
 
 look at something people are trying to do, and figure out how to do it in a way that doesn't suck
