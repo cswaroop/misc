@@ -2,6 +2,13 @@
 
 ## Design & UX
 
+* Mobile First Front-end
+* API First back-end
+* Responsive Web Design
+* User-Centric
+* Task-Oriented
+* Material Design
+
 ## Software Engineering
 
 ### Front-end Engineering
