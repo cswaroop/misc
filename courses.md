@@ -5,8 +5,15 @@
 ## Software Engineering
 
 ### Front-end Engineering
-### Full Stack Engineering
+### Full Stack Engineeringe
 ### Infrastructure Engineering
+
+Develop large scale disributed server applications using (C/C++ | Java | Erlang | Go) such as Redis, Cassandra, Memory Allocators etc. that sustain millions of writes per second(wps) or queries per second(qps)
+* Operating Systems
+* File Systems
+* Programming Language Design & Compilers
+* Databases (MySQL, PostGres, Cassandra)
+
 ### Data Engineering
 ### Mobile Engineering
 ### Test Automation
@@ -67,3 +74,8 @@ Usual Jobs include Product Analytics (User-Facing such as People you Know, Produ
 * Oracle Apps
 * WorkDay, SalesForce
 * Linux
+* Data Center Design & Operations
+
+## Sales & Business Development
+
+## Marketing
