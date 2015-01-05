@@ -1,6 +1,6 @@
 # Courses
 
-## Design
+## Design & User Experience
 
 ## Software Engineering
 
@@ -14,6 +14,7 @@
 ## Data & Analytics (>10TB of Distributed Data)
 
 Languages used include SQL, (C/C++ | Java | Python), (R | Matlab) etc.
+Usual Jobs include Product Analytics (User-Facing such as People you Know, Product you may like etc.) or internal business analytics (Business Operations, Marketing, Revenue, IT, HR, Supply Chain etc.)
 
 ### Data Sciences
 
@@ -44,3 +45,14 @@ Languages used include SQL, (C/C++ | Java | Python), (R | Matlab) etc.
 ### Data Visualization
 
 * D3JS
+
+## Product Management
+
+### Marketing Product Manager
+### Technical Product Manager
+* Epic & Story writing
+* MRD
+* PRD
+### TechnicalProgram Manager
+* PMI
+* Agile SCRUM Master
