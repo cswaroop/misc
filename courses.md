@@ -11,13 +11,14 @@
 * HTML5/CSS3
 * Bootstrap,Polymer
 
-### Full Stack Engineeringe
+### Full Stack Engineering
+
 * NodeJS (JavaScript)
-* Django/Flask (Python)
+* Django/DRF, Flask (Python)
 * Rails/Sinatra (Ruby)
 * Struts/Wicket/Play (Java)
 * Clojure/ClojureScript (Lisp)
-* Yii, CakePHP (PHP)
+* Zend,Yii, CakePHP (PHP)
 
 ### Infrastructure Engineering
 
@@ -31,6 +32,7 @@ Develop large scale disributed server applications using (C/C++ | Java | Erlang 
 * Hadoop
 * Spark
 * Storm
+* Hive, Pig
 
 ### Mobile Engineering
 * Android
@@ -62,7 +64,10 @@ Usual Jobs include Product Analytics (User-Facing such as People you Know, Produ
 * Optimization System
 * Scheduling System
 * Statistics
-* Machine Learning
+* Classification
+* Regression
+* Object Recognition
+* Natural Language Processing
 * Mathematical Optimization
 * Forecasting
 * Predictive Analytics
