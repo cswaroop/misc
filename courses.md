@@ -93,11 +93,13 @@ Usual Jobs include Product Analytics (User-Facing such as People you Know, Produ
 ## Product Management
 
 ### Marketing Product Manager
+
 ### Technical Product Manager
 * Epic & Story writing
 * MRD
 * PRD
-### TechnicalProgram Manager
+
+### Program Management
 * PMI
 * Agile SCRUM Master
 
