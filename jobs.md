@@ -76,6 +76,55 @@ Full Time
 $100K – $180K Salary
 0.01% – 2.0% Equity
 
+### Front-end Engineer
+SKILLS
+Python, Javascript, CSS, HTML5 & CSS3, Angular.JS, HTML5 CSS3
+LOCATION
+Seattle
+COMPENSATION
+Full Time
+$60K – $140K Salary
+0.01% – 0.2% Equity
+
+### Software Engineer - SOA
+SKILLS
+Python, Cloud Computing, Node.js, Web Infrastructure, Application / Platform Architecture, Infrastructure, Clojure, Scala, Amazon Web Services, SOA, Javscript
+LOCATION
+San Francisco
+COMPENSATION
+Full Time
+$80K – $150K Salary
+0.05% – 0.2% Equity
+
+### Software Engineer - Generalist
+SKILLS
+Python, PHP, Java, C#, MySQL, MongoDB
+LOCATION
+San Francisco
+COMPENSATION
+Full Time
+$60K – $140K Salary
+0.01% – 0.25% Equity
+
+### Software Engineer - Site Reliability 
+SKILLS
+Python, MySQL, MongoDB, Ruby, Perl, HTTP Protocol, DNS, Nagios, TCP/IP, Ruby on Rails, Munin
+LOCATION
+Seattle
+COMPENSATION
+Full Time
+$60K – $140K Salary
+0.05% – 0.2% Equity
+### Software Engineer - Test
+SKILLS
+Python, PHP, Java, C#, Automated Software Testing, Selenium, Test Driven Development, JUNIT
+LOCATION
+Kirkland
+COMPENSATION
+Full Time
+$60K – $140K Salary
+0.01% – 0.05% Equity
+
 ## UI/UX:  Visual Designer
 SKILLS
 Web Design, Graphic Design, Design, User Interface Design, Visual Design
@@ -86,3 +135,12 @@ Full Time
 $80K – $160K Salary
 0.01% – 2.0% Equity
 
+## Product Manager
+SKILLS
+Product Management, Product Marketing, Product Development
+LOCATION
+Bangalore
+COMPENSATION
+Full Time
+₹1500K – ₹2500K Salary
+0.0% – 0.01% Equity
